@@ -1,7 +1,4 @@
-body {
-    background-image: url("/assets/images/background.jpg");
-    padding-top: 70px;
-}
+
 
 .jumbotron{
     background-color: rgba(36, 33, 33, 0.7);
@@ -9,19 +6,23 @@ body {
     border-style: solid;
     border-color: black;
 }
-
-.panel-heading{
-    background-color: rgba(36, 33, 33, 0.8);
-    color: white;
+body {
+    
+    padding-top: 70px;
 }
+
+
 .panel{
-    background-image: url("/assets/images/backpanel.jpg");
+    
 	border-style: solid;
 	border-color: grey;
 	border-width: 8px;
 
 }
-
+.panel-heading{
+    background-color: rgba(36, 33, 33, 0.8);
+    color: white;
+}
 .btn-success{
 	color: rgb(255, 255, 255);
 	background: rgba(28, 134, 42, 0.8);
